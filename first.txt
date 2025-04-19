@@ -8,3 +8,4 @@ $20 Bounty change
 Another attempt
 Issue Solved
 Issue 18 solved
+issue 20 solved
