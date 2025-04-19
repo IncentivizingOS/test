@@ -7,3 +7,4 @@ Challenger
 $20 Bounty change
 Another attempt
 Issue Solved
+Issue 18 solved
